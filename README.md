@@ -20,7 +20,7 @@ Pkg.add("MatrixLM")
 For the most recent version, use:
 ```
 using Pkg
-Pkg.add(url = "https://github.com/senresearch/MatrixLM.jl", rev="master")
+Pkg.add(url = "https://github.com/senresearch/MatrixLM.jl", rev="main")
 ```
 
 ## Usage 
